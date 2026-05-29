@@ -218,3 +218,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+data/
+ds002721-1.0.3.sh
+plan.txt
