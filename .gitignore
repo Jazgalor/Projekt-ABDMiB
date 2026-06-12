@@ -222,3 +222,5 @@ __marimo__/
 /data/
 ds002721-1.0.3.sh
 plan.txt
+
+*.npy
